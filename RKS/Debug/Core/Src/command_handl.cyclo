@@ -1,0 +1,3 @@
+../Core/Src/command_handl.c:3:10:SetPin	2
+../Core/Src/command_handl.c:17:10:SetPWM	3
+../Core/Src/command_handl.c:34:10:SetPWMX	1

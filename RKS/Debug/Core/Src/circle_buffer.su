@@ -1,0 +1,5 @@
+../Core/Src/circle_buffer.c:3:6:ConstructCircleBuffer	24	static
+../Core/Src/circle_buffer.c:12:6:ClearCircleBuffer	16	static
+../Core/Src/circle_buffer.c:18:10:GetDataSizeCircleBuffer	16	static
+../Core/Src/circle_buffer.c:34:9:PushDataCircleBuffer	24	static
+../Core/Src/circle_buffer.c:54:9:PopDataCircleBuffer	24	static

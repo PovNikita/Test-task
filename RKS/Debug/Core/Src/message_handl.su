@@ -1,0 +1,7 @@
+../Core/Src/message_handl.c:3:9:CalculateCheckSum	24	static
+../Core/Src/message_handl.c:14:9:CalculateCheckSumFromMsg	24	static
+../Core/Src/message_handl.c:20:6:SendUART	16	static
+../Core/Src/message_handl.c:25:6:SendMsg	24	static
+../Core/Src/message_handl.c:31:6:SendGoodAnsMes	24	static
+../Core/Src/message_handl.c:41:6:SendFailAnsMes	24	static
+../Core/Src/message_handl.c:51:9:ParseAndCheckData	24	static

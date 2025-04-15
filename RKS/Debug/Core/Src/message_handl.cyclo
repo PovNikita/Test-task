@@ -1,0 +1,7 @@
+../Core/Src/message_handl.c:3:9:CalculateCheckSum	2
+../Core/Src/message_handl.c:14:9:CalculateCheckSumFromMsg	1
+../Core/Src/message_handl.c:20:6:SendUART	1
+../Core/Src/message_handl.c:25:6:SendMsg	1
+../Core/Src/message_handl.c:31:6:SendGoodAnsMes	1
+../Core/Src/message_handl.c:41:6:SendFailAnsMes	1
+../Core/Src/message_handl.c:51:9:ParseAndCheckData	12
